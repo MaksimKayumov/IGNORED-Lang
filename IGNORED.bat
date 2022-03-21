@@ -1,3 +1,3 @@
 @set/pa=
-@echo I IGNORE PROGRAMM %a%
+@echo I IGNORE PROGRAM %a%
 @pause
